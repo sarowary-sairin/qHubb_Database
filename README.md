@@ -1,3 +1,0 @@
-# qHubb_Database
-database
-
